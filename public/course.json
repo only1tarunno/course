@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/XFxCQ0Y/Rectangle-2.png",
+    "title": "Python Fundamentals",
+    "description": "Learn the basics of Python programming with hands-on exercises. Perfect for beginners.",
+    "price": 25000,
+    "course_time": 1
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/tssWG0x/Rectangle-3.png",
+    "title": "Basic Data Structures",
+    "description": "Basic data structures are fundamental constructs in computer science that organize and store data efficiently. ",
+    "price": 8000,
+    "course_time": 7
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/hBMzG5c/Rectangle-2-6.png",
+    "title": "Problem-Solving Part",
+    "description": "You'll learn to break down complex problems into manageable steps and develop efficient solutions.",
+    "price": 12000,
+    "course_time": 9
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/vqJzRCR/Rectangle-2-5.png",
+    "title": "Java Programming Basics",
+    "description": "Begin your journey into Java programming. Build console applications and understand OOP concepts.",
+    "price": 10000,
+    "course_time": 12
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/B6HxWGT/Rectangle-2-3.png",
+    "title": "Introduction to Algorithms",
+    "description": " It serves as a fundamental resource for computer scientists and programmers to understand.",
+    "price": 21000,
+    "course_time": 15
+  },
+  {
+    "id": 6,
+    "cover": "https://i.ibb.co/bKDPCcN/Rectangle-2-4.png",
+    "title": "Machine Learning Basics",
+    "description": "Delve into the fundamentals of machine learning with practical exercises and projects.",
+    "price": 24000,
+    "course_time": 17
+  },
+  {
+    "id": 7,
+    "cover": "https://i.ibb.co/f1Ftyxd/Rectangle-2-2.png",
+    "title": "C# Programming Essentials",
+    "description": "Learn C# programming language and develop desktop applications.It provides a solid foundation for beginners.",
+    "price": 7000,
+    "course_time": 6
+  },
+  {
+    "id": 8,
+    "cover": "https://i.ibb.co/Xz2zTk0/Rectangle-2-1.png",
+    "title": "Database (MySQL)",
+    "description": "MySQL is an open-source relational database management system (RDBMS) known for its speed  and reliability.",
+    "price": 15000,
+    "course_time": 8
+  },
+  {
+    "id": 9,
+    "cover": "https://i.ibb.co/DVyzj8Y/Rectangle-3-1.png",
+    "title": "Blockchain Fundamentals",
+    "description": "Discover the world of blockchain technology and build your own blockchain applications.",
+    "price": 20000,
+    "course_time": 5
+  }
+]
